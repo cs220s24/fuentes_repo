@@ -1,3 +1,3 @@
 
-name = input('What is your name, bro? ')
+name = input('What is your Name, bro? ')
 print('Hello, {}'.format(name))
