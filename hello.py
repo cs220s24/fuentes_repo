@@ -1,2 +1,4 @@
-name = input('What is your name? ')
-print('hello, {}!' .format(name))
+name = input('What is your name brother? ')
+print('Hello, {}!' .format(name))
+
+
